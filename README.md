@@ -1,4 +1,6 @@
-**Tienda Electrónica** es un proyecto desarrollado para servir como material didáctico en clases de desarrollo guiado. Consiste en una plataforma de comercio electrónico que permite a los usuarios explorar y adquirir productos electrónicos de manera sencilla y eficiente.
+**Tienda Electrónica** es un proyecto desarrollado para servir como material didáctico en clases de desarrollo guiado. 
+Consiste en una plataforma de comercio electrónico que permite a los usuarios explorar y 
+adquirir productos electrónicos de manera sencilla y eficiente.
 
 ## Características Principales
 
@@ -44,7 +46,8 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
    [Comando para instalar dependencias, por ejemplo: npm install]
    ```
 3. **Configurar Variables de Entorno:**
-   Crea un archivo `.env` en la raíz del proyecto y define las variables de entorno requeridas, como las credenciales de la base de datos y claves de API.
+   Crea un archivo `.env` en la raíz del proyecto y define las variables de entorno requeridas,
+   como las credenciales de la base de datos y claves de API.
 
 4. **Iniciar el Servidor:**
    Ejecuta el servidor de desarrollo.
@@ -69,11 +72,16 @@ Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archiv
 
 ## Contacto
 
-Para consultas o sugerencias, por favor contacta a los mantenedores del proyecto a través de [correo electrónico o plataforma de comunicación preferida].
+Para consultas o sugerencias, por favor contacta a los mantenedores del proyecto a través de 
+[correo electrónico o plataforma de comunicación preferida].
 
 ---
 
-¡Gracias por visitar el repositorio de Tienda Electrónica! Esperamos que este proyecto sea útil para tu aprendizaje y desarrollo profesional. Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto.
+¡Gracias por visitar el repositorio de Tienda Electrónica!
+Esperamos que este proyecto sea útil para tu aprendizaje y desarrollo profesional.
+Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto.
 
-El proyecto está incompleto, es un ejemplo para trabajar con los alumnos en clases de desarrolo guiado.Es necesario completar algunas funcionalidades en el front end y el back end. Pues Esta es la idea, que los alumnos usen la lógica de lo aprendido en clases para completar el proyecto.
+El proyecto está incompleto, es un ejemplo para trabajar con los alumnos en clases de desarrolo guiado.
+Es necesario completar algunas funcionalidades en el front end y el back end.
+Pues Esta es la idea, que los alumnos usen la lógica de lo aprendido en clases para completar el proyecto.
 ````
