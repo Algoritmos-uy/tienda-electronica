@@ -1,0 +1,49 @@
+@media (max-width: 728px) {
+    header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        display: flex;
+        padding: 0;
+        justify-content: center;
+    }
+
+    #navbarSupportedContent ul {
+        margin-top: 4.5rem;
+    }
+
+    header h1 {
+        display: none;
+    }
+
+    .navbar {
+
+        height: auto;
+    }
+
+    .main-content {
+        margin-left: 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .productos {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    section {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+
+    .carousel,
+    img {
+        width: 100%;
+        height: 200px;
+    }
+}
